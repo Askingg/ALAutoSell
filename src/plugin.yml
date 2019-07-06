@@ -1,0 +1,10 @@
+name: ALAutoSell
+author: Synysterrr
+version: 1.0
+main: me.syn.alautosell.main.Main
+description: AutoSell Core for AfterLife
+
+commands:
+  alautosell:
+   aliases: [alas, autosell, as, sell]
+   description: Base Command
